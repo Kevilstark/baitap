@@ -42,7 +42,7 @@ class Caculator
 
 }
  
-// Instantiate an object from the class Employee
+// Instantiate an object from the class Caculator
 $caculator =(new Caculator())
 ->setFirstValue(99)
 ->setSecondValue(200);
