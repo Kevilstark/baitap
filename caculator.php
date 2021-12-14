@@ -52,3 +52,4 @@ echo 'Value 1: '.$caculator->getFirstValue().
 echo 'Value 1 + Value 2 = '.$caculator->sumMath()."<br />";
 echo 'Value 1 x Value 2 = '.$caculator->mulMath()."<br />";
 // EOF
+?>
